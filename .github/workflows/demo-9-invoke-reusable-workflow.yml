@@ -7,6 +7,6 @@ on:
 
 jobs:
   invoke:
-    uses: ./.github/workflows/reusable-workflow.yml
+    uses: ./.github/workflows/demo-9-reusable-workflow.yml
     with:
       build-command: "python setup.py build"
