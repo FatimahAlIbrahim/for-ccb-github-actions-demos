@@ -2,3 +2,5 @@ pytest
 requests
 flask
 wheel
+fastapi
+uvicorn
